@@ -4754,11 +4754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Sonal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sonal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4776,8 +4776,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Domain\\Domain.csproj"
+            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Domain\\Domain.csproj"
             }
           }
         }

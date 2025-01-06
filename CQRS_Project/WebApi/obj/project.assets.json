@@ -5363,11 +5363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Sonal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sonal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5385,14 +5385,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Application\\Application.csproj"
+            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Application\\Application.csproj"
             },
-            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Infrastructure\\Infrastructure.csproj"
             },
-            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Persistence\\Persistence.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBR2TXqgYH0=",
+  "dgSpecHash": "XC8oFTT/wyc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\CQRS_Project\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sonal\\OneDrive\\Desktop\\cqrs\\cqrs_framewrok\\CQRS_Project\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Sonal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

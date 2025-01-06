@@ -1,7 +1,8 @@
-using Application.Interfaces;
 using Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using Application.Interfaces.Repositories;
+using Persistence.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore; // For EF Core methods
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Domain.Entities; // For the Category entity
-using Application.Interfaces.Repositories;
-using Persistence.Contexts;
 
 namespace Infrastructure.Repositories
 {
